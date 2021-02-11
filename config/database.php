@@ -95,7 +95,7 @@ return [
 			'driver' => 'odbc',
 			'dsn' => 'iSeriesDSN',
 			'database' => 'AFIS',
-			'host' => '192.168.1.5',
+			'host' => 'localhost',
 			'username' => 'khairul',
 			'password' => 'khairul',
 			'schema' => 'AFIS',
